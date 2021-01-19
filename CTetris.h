@@ -8,6 +8,7 @@
 #include <algorithm>
 #include "utils.h"
 
+
 class CTetris {
 public:
 	void Play();

@@ -1,3 +1,7 @@
+#ifndef UNICODE
+#define UNICODE
+#endif
+
 #include "CTetris.h"
 
 #pragma comment (lib,"User32.lib")

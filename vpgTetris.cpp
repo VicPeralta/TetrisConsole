@@ -1,15 +1,6 @@
 
-#ifndef UNICODE
-#define UNICODE
-#endif
-#ifndef _UNICODE
-#define _UNICODE
-#endif
-
 #include <iostream>
 #include "CTetris.h"
-
-
 
 int main() {
 	CTetris game;
